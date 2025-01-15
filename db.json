@@ -1,0 +1,34 @@
+{
+  "users" : [
+    {
+      "id" : 1,
+      "username" : "Shesha",
+      "password" : "mindmap123",
+      "balance" : 2000,
+      "transactions" : []
+    },
+    {
+      "id" : 2,
+      "username" : "Tester",
+      "password" : "mindmap123",
+      "balance" : 12000,
+      "transactions" : [
+        {
+          "transacionId" : "trans_1",
+          "amount" : 1000,
+          "toUserId" : 2,
+          "remarks": "",
+          "type" : "C",
+          "datetime" : 12:00 15-01-2025
+        }
+      ]
+    },
+    {
+      "id" : 3,
+      "username" : "Client",
+      "password" : "mindmap123",
+      "balance" : 8000,
+      "transactions" : []
+    },
+  ],
+}
