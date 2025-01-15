@@ -29,6 +29,6 @@
       "password" : "mindmap123",
       "balance" : 8000,
       "transactions" : []
-    },
-  ],
+    }
+  ]
 }
